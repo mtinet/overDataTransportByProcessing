@@ -3,5 +3,5 @@
 
 ### 클라이언트의 마우스 위치 정보를 전송 받아 서버의 화면에 똑같이 뿌림  
 
-## [소스코드](https://github.com/mtinet/overDataTransportByProcessing)  
+## [소스코드](https://github.com/mtinet/overDataTransportByProcessing/tree/master/code)  
 ![](https://github.com/mtinet/overDataTransportByProcessing/blob/master/image/overDataTransportByProcessing.png?raw=true)  
