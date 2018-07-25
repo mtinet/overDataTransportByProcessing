@@ -22,7 +22,7 @@ void draw() {
     update = true;
   }
   
-  if(update && mouse.length == 2) {
+  if(update == true && mouse.length == 2) {
     ellipse(mouse[0], mouse[1], 10, 10);
     update = false;
   }
